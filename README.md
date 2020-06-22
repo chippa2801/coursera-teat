@@ -1,2 +1,2 @@
-# coursera-teat
+# coursera-tesr
 coursera-test
